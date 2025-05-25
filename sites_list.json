@@ -1,0 +1,21 @@
+{
+  "version": "20250525.1",
+  "description": "spisok dolbaebov",
+  "sites": [
+    {
+      "name": "test company a",
+      "domains": ["cdprojektred.com", "cdprojekt.com"],
+      "reason": "1."
+    },
+    {
+      "name": "test corp b",
+      "domains": ["adobe.com"],
+      "reason": "1"
+    },
+    {
+      "name": "tst c",
+      "domains": ["audi.com"],
+      "reason": "1"
+    }
+  ]
+}
